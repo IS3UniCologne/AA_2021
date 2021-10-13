@@ -1,4 +1,4 @@
-
+# AA Git repository
 
 Welcome to the repository of the course **"Analytics and Applications(AA)"**. We will use this space as the central point for sharing code, data and instructions with you over the course of this semester.
 
